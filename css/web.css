@@ -6,9 +6,32 @@ body {
   font-size: 16px;
   color: black;
   background-size: 100%;
+  background: url("file:///Users/latinamichi/Desktop/mchellychauri.github.io/images/turqoise.jpg") no-repeat 50% 50% fixed;
   line-height: 1.0;
   background-color: white
 }
+
+
+
+.background1{
+  background: url("file:///Users/latinamichi/Desktop/mchellychauri.github.io/images/turqoise.jpg") no-repeat 50% 50% fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+}
+
+
+.background2{
+  background: url("file:///Users/latinamichi/Desktop/mchellychauri.github.io/images/turqoise.jpg") no-repeat 50% 50% fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+}
+
+
+
 
 #michellecastillo {
  width:230px;
@@ -57,7 +80,7 @@ nav ul li a:visited {
 
 nav ul li > a:hover {
      background-color: rgb(53,231,191);
-     color: white;
+     color: black;
 }
 
 
