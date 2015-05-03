@@ -8,7 +8,6 @@ body {
   background-size: 100%;
   background: url(../images/turqoise.jpg);
   background-repeat: no-repeat;
-  background-attachment: fixed;
   line-height: 1.0;
   background-color: white
 }
@@ -21,6 +20,7 @@ body {
  display:block;
  margin-left:auto;
  margin-right:auto;
+
 
 }
 
@@ -36,7 +36,6 @@ header {
 nav {
   width: 100%;
   text-align: center;
-  background:url(../images/turqoise.jpg);
   font-size: 16px;
   margin-bottom: 40px;
 }
@@ -57,12 +56,12 @@ nav ul li {
 
 nav ul li a,
 nav ul li a:visited {
-  color: black
+  color: white
 }
 
 nav ul li > a:hover {
      background-color: rgb(53,231,191);
-     color: black;
+     color: white;
 }
 
 
@@ -169,7 +168,6 @@ h4 {
 div.background {
     width: 960px;
     height: 200px;
-    background: url(../images/turqoise.jpg);
     border: 2px solid black;
     margin-left: auto;
     margin-right: auto;
